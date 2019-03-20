@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IAndroid</string>
+    <string name="auth_failed">First Get Registration</string>
+    <string name="msg">User successFully Registered</string>
+</resources>
